@@ -1,0 +1,4 @@
+name: swang_workspace
+
+packages:
+  - packages/**
